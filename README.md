@@ -13,7 +13,7 @@ All of these scripts are experimental and may not be complete.
 
 ## License
 
-This project is licensed under an [MIT license](LICENSE).
+This project is licensed under an [MIT 0 license](LICENSE).
 
 ## Contributors
 
